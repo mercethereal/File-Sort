@@ -1,0 +1,7 @@
+c:\sharp\FileSort\bin\Debug\FileSort.exe.config
+c:\sharp\FileSort\bin\Debug\FileSort.exe
+c:\sharp\FileSort\bin\Debug\FileSort.pdb
+c:\sharp\FileSort\obj\Debug\FileSort.csprojAssemblyReference.cache
+c:\sharp\FileSort\obj\Debug\FileSort.csproj.CoreCompileInputs.cache
+c:\sharp\FileSort\obj\Debug\FileSort.exe
+c:\sharp\FileSort\obj\Debug\FileSort.pdb
